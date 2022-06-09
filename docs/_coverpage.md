@@ -1,9 +1,8 @@
-# Blackstar-baba
+# 黑星研究所(Blackstar-baba Institute)
+一名`物联网`开发者&`大数据`开发者&`轻度`全栈工程师(An `Internet of Things` developer & `Big Data` developer & `Slight` full stack engineer)
 
-Iot Engineer & Database Engineer
-
-[<i class="iconfont icon-github"></i> GitHub](https://github.com/tinajs/tina)
-[马上开始 <i class="iconfont icon-down"></i>](#main)
-
+[<i class="iconfont icon-github"></i> GitHub](https://github.com/blackstar-baba/blog)
+[<i class="iconfont icon-down"></i> ThingsBoard](/iot/thingsboard/README.md)
+[<i class="iconfont icon-down"></i> Note](/note/README.md)
 <!-- background image -->
-![](https://i.loli.net/2018/01/15/5a5bcb771cc40.jpg)
+![](_images/bg.jpg)

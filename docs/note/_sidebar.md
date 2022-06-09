@@ -1,0 +1,69 @@
+- [Note](note/README.md)
+- algorithm
+  - [bitmap](note/algorithm/bitmap.md)
+- angular
+  - [form](note/angular/form.md)
+  - [introduction](note/angular/introduction.md)
+- ansible
+  - [debug](note/ansible/debug.md)
+- bluetooth
+  - [framework](note/ansible/framework.md)
+- c++
+  - [api](note/c++/api.md)
+- command 
+  - [sed](note/command/sed.md)
+  - [yum search](note/command/yum_search.md)
+- computer
+  - [columnar storage read and write](note/computer/columnar_storage_read_and_write.md)
+  - [cpu](note/computer/cpu.md)
+  - [inter xed install](note/computer/inter_xed_install.md)
+  - [memory](note/computer/memory.md)
+  - [numa](note/computer/numa.md)
+- github
+  - [tag](note/github/tag.md)
+  - [token auth](note/github/token_auth.md)
+- java
+  - curator
+    - [curator config](note/java/curator/curator_config.md)
+  - gaalvm
+    - [top10](note/java/gaalvm/top10.md)
+  - [branch prediction](note/java/branch_prediction.md)
+  - [cache miss](note/java/cache_miss.md)
+  - [crash log](note/java/crash_log.md)
+  - [vectorization](note/java/vectorization.md)
+- javascript
+  - [spread_operator](note/javascript/spread_operator.md)
+- kubernetes
+  - [cka.md](note/kubernetes/cka.md)
+- method
+  - [how to read code](note/method/how_to_read_code.md)
+- miniconda
+  - [install](note/miniconda/install.md)
+- nexus
+  - [upload](note/nexus/upload.md)
+- os
+  - linux
+    - [add device](note/os/linux/add_device.md)
+    - [cache miss](note/os/linux/cache_miss.md)
+    - [cpu limit](note/os/linux/cpu_limit.md)
+    - [cpu](note/os/linux/cpu.md)
+    - [disk io](note/os/linux/disk_io.md)
+    - [threads](note/os/linux/threads.md)
+    - [vmware tools centos7](note/os/linux/vmware_tools_centos7.md)
+  - mac
+    - [cpu limit](note/os/mac/cpu_limit.md)
+    - [file repair](note/os/mac/file_repair.md)
+    - [ntfs device supports](note/os/mac/ntfs_device_supports.md)
+    - [pg install](note/os/mac/pg_install.md)
+    - [sshpass install](note/os/mac/sshpass_install.md)
+    - [thrift install](note/os/mac/thrift_install.md)
+  - windows
+    - [powershell proxy](note/os/windows/powershell_proxy.md)
+- paper
+  - [morsel driven parallelism](note/paper/morsel_driven_parallelism.md)
+- postgres
+- respberry_pi
+  - [docker install](note/raspberry_pi/docker_install.md)
+- vagrant
+  - [move vagrant vm](note/vagrant/move_vagrant_vm.md)
+- [avartarity](note/avartarify.md)
